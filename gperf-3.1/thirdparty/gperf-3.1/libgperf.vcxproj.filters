@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="include">
+      <UniqueIdentifier>{4f4d76dc-9e89-4441-911e-587262cba5a3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{df1ce46d-6dea-44a2-b17a-cabcb9347657}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="include\bool-array.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\hash-table.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\input.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\keyword.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\keyword-list.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\options.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\output.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\positions.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\search.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\version.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\getline.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\getopt.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\hash.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\config.h">
+      <Filter>include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\bool-array.cc">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\hash-table.cc">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\input.cc">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\keyword.cc">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\keyword-list.cc">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\options.cc">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\output.cc">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\positions.cc">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\search.cc">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\version.cc">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\getopt.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\getopt1.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\getline.cc">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\hash.cc">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
